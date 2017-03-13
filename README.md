@@ -1,7 +1,9 @@
 # 2D 게임을 위한 최고의 엔진 Defold 한글 매뉴얼
 ![](http://www.defold.com/static/defold/blossom-with-phone.png)
 
-> [Defold 공식 사이트](http://www.defold.com)
+> [Defold 공식 사이트 바로가기](http://www.defold.com)
+-
+> [Defold 한글 매뉴얼 바로가기](https://github.com/kuimoani/defold/wiki/CREATE%20WITH%20DEFOLD)
 
 2D 기반 크로스플랫폼 게임 엔진을 찾던 중 Defold의 많은 가능성을 보고 매뉴얼을 번역하게 되었습니다. 기본적으로 유니티와 비슷한 GameObject-Component 기반 설계 방식을 따르면서 더 구조적이고 더 가볍고 2D 작업에 더 직관적인 기능을들 제공하고 있다고 생각합니다.
 
